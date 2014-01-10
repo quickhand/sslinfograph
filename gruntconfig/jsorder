@@ -1,0 +1,9 @@
+bower_components/jquery/jquery.js
+bower_components/angular/angular.js
+bower_components/bootstrap/dist/js/bootstrap.js
+src/js/angular/app.js
+src/js/angular/controllers.js
+src/js/angular/directives.js
+src/js/angular/services.js
+src/js/main.js
+
