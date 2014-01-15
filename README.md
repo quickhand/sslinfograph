@@ -19,7 +19,7 @@ First, clone the repository. Make sure you have Node.js and Grunt installed glob
 
 In the terminal, go to the project directory, type the following:
 
-    npm install & bower install
+    npm install && bower install
 
 You're ready to go. Modify the files in the 'src' directory as you please. You can build the project with the command
 
